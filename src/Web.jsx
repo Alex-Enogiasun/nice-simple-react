@@ -46,6 +46,7 @@ function Web() {
       <div id="mycontact" className="contact">
         <h4>Contact Us</h4>
         <p>Phone: +234 810 287 1335 Email: alexenogiasun@gmail.com</p>
+        <p><a href="mailto: alexjaunty1@gmail.com" class="text-white">Email us</a></p>
       </div>
       <div className="footer">
         <p>©2024 Small Business. All rights reserved.</p>
